@@ -37,12 +37,22 @@ PHP나 기존의 ASP와 비슷합니다. <br>
 
 또 한 위 3개의 프레임워크는 모두 완전하게 독립적인것이 아니기 때문에 3가지를 동시에 사용할 수 있습니다.<br>
 
+<br>
 
+# 시작하기
+``` dotnet new webapp -o aspnetcoreapp ``` <br>
+``` dotnet dev-certs https --trust ``` + 확인 <br>
+``` cd aspnetcoreapp ``` <br>
+``` dotnet watch run ``` <br>
 <br>
-<br>
+### 실행화면
+![image](https://user-images.githubusercontent.com/38147253/136129028-87a2e317-bb03-4770-ac25-572f51a3d9ad.png)
+
+
 
 # 출처 
 
 https://ko.wikipedia.org/wiki/ASP.NET <br>
 https://runcoding.tistory.com/8 <br>
+https://docs.microsoft.com/ko-kr/aspnet/core/getting-started/?view=aspnetcore-3.1&tabs=windows <br>
  
